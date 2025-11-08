@@ -74,5 +74,5 @@ This project was completed using Luke Barousse's data on over 40,000 customers a
 
 ## Project Technical Details:
 - **Databases Used:** PostgreSQL
-- **Analysis Tools:** PostgreSQL, DBeaver, Visual Studio Code
+- **Analysis Tools:** PostgreSQL, DBeaver, pgAdmin, Visual Studio Code
 - **Visualisations:** ChatGPT
