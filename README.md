@@ -1,7 +1,7 @@
 # SQL Project 2 - Sales Analysis 
 
 ## Overview:
-Analysis project using SQL for querying data on customer behvaiour, retetion and lifetime value for an e-commerce company. Data is analysed and presented in a way that can help to improve customer rentention rates and maximise revenue. This project improves on my SQL knowledge by using new querying techniques like creating Views, using conditional handles to remove NULL values, and proper string formatting alongside optimising my queries to make them run more efficiently. 
+Analysis project using SQL for querying data on customer behvaiour, retention and lifetime value for an e-commerce company. Data is analysed and presented in a way that can help to improve customer retention rates and maximise revenue. This project improves on my SQL knowledge by using new querying techniques like creating Views, using conditional handles to remove NULL values, and proper string formatting alongside optimising my queries to make them run more efficiently. 
 
 This project was completed using Luke Barousse's data on over 40,000 customers and a YouTube tutorial that can be found at this link: https://www.youtube.com/watch?v=QKIGsShyEsQ&t=6500s.
 
@@ -16,7 +16,7 @@ This project was completed using Luke Barousse's data on over 40,000 customers a
 
 ### 1. Customer Segmentation
 - Categorised customers based on their Lifetime Value (LTV), which is how much revenue they have brought to the company since their first purchase.
-- Each customer was assigned a segmented value, either Low, Mid or High-value based on an where they sat in the range of average spending. 
+- Each customer was assigned a segmented value, either Low, Mid or High-value based on where they sat in the range of average spending. 
 - Calculated key metrics: total revenue and LTV.
 
 **Query:** [1_Customer_Segmentation.sql](/1_Customer_Segmentation.sql)
@@ -53,7 +53,7 @@ This project was completed using Luke Barousse's data on over 40,000 customers a
 - Value from customers is decreasing over time, this needs further investigation of why this is happening.
 - 2023 saw a drop in the number of customers acquired, which is concerning.
 - Lowering of both lifetime value (LTV) and decreasing customer acquisition will result in the company facing a potential decline in revenue.
-- Implementing loyalty/subscription programs will help to stablise revenue fluctuations. 
+- Implementing loyalty/subscription programs will help to stabilise revenue fluctuations. 
 - Apply successful strategies from high-spending 2016-2018 cohorts to newer customers.
 
 ### 3. Retention Analysis
@@ -69,7 +69,7 @@ This project was completed using Luke Barousse's data on over 40,000 customers a
 
 **Business Insights & Strategic Recommendations:**
 - Recommended to start customer engagement early, with strategies that target new customers within 1-2 years of their first purchase. This could include incentives like loyalty rewards and personalised offers to improve long-term retention.
-- Specific targets on high-value customers that have now churned. Use win-back campaigns rather than broad retention efforts, as reactivating high-value customers is likely to be easier and more effective on ROI, than just aiming for newer customers.
+- Specific targets on high-value customers that have churned. Use win-back campaigns rather than broad retention efforts, as reactivating high-value customers is likely to be easier and more effective on ROI, than just aiming for newer customers.
 - Use the correct indicators of inactivity from customer data to predict when a customer is about to churn and intervene with at-risk users before they lapse.
 
 ## Project Technical Details:
