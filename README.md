@@ -1,7 +1,7 @@
 # SQL Project 2 - Sales Analysis 
 
 ## Overview:
-Analysis project using SQL for querying data on customer behvaiour, retention and lifetime value for an e-commerce company. Data is analysed and presented in a way that can help to improve customer rentention rates and maximise revenue. This project improves on my SQL knowledge by using new querying techniques like creating Views, using conditional handles to remove NULL values, and proper string formatting alongside optimising my queries to make them run more efficiently. 
+Analysis project using SQL for querying data on customer behvaiour, retetion and lifetime value for an e-commerce company. Data is analysed and presented in a way that can help to improve customer rentention rates and maximise revenue. This project improves on my SQL knowledge by using new querying techniques like creating Views, using conditional handles to remove NULL values, and proper string formatting alongside optimising my queries to make them run more efficiently. 
 
 This project was completed using Luke Barousse's data on over 40,000 customers and a YouTube tutorial that can be found at this link: https://www.youtube.com/watch?v=QKIGsShyEsQ&t=6500s.
 
