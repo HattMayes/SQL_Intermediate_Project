@@ -21,7 +21,7 @@ This project was completed using Luke Barousse's data on over 40,000 customers a
 
 **Query:** [1_Customer_Segmentation.sql](/1_Customer_Segmentation.sql)
 
-**Visualisation:** Put Image here [Customer Segmentation]()
+**Visualisation:** Put Image Here [Customer Segmentation](<img width="1121" height="1168" alt="Image" src="https://github.com/user-attachments/assets/b2dd3585-2d41-4335-a99b-7432f3d6a76b" />)
 
 **Key Findings:**
 - Each customer segment was successful in showing how much total revenue is driven into the company by these customer types. Total company revenue = $206.3M.
