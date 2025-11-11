@@ -21,7 +21,8 @@ This project was completed using Luke Barousse's data on over 40,000 customers a
 
 **Query:** [1_Customer_Segmentation.sql](/1_Customer_Segmentation.sql)
 
-**Visualisation:**[Customer Segmentation]<img width="1121" height="1168" alt="Customer Segmentation" src="https://github.com/user-attachments/assets/b2dd3585-2d41-4335-a99b-7432f3d6a76b" />
+**Visualisation:**<img width="1121" height="1168" alt="Customer Segmentation" src="https://github.com/user-attachments/assets/b2dd3585-2d41-4335-a99b-7432f3d6a76b" /> 
+A pie chart showcasing the percentage of revenue each customer segment represents for the business.
 
 **Key Findings:**
 - Each customer segment was successful in showing how much total revenue is driven into the company by these customer types. Total company revenue = $206.3M.
@@ -42,7 +43,8 @@ This project was completed using Luke Barousse's data on over 40,000 customers a
 **Query:** [2_cohort_analysis.sql](/2_cohort_analysis.sql)
 
 **Visualisation:**
-- [Cohort Analysis]<img width="1980" height="1180" alt="Image" src="https://github.com/user-attachments/assets/d9c11537-7b49-4875-b783-41782e8f7a2b" />
+<img width="1980" height="1180" alt="Image" src="https://github.com/user-attachments/assets/d9c11537-7b49-4875-b783-41782e8f7a2b" />
+A bar graph showing the average revenue per customer for each cohort year, starting from 2015 to 2024.
 
 **Key Findings:**
 - Revenue per customer shows a decreasing trend over time.
