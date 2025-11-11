@@ -42,7 +42,7 @@ This project was completed using Luke Barousse's data on over 40,000 customers a
 **Query:** [2_cohort_analysis.sql](/2_cohort_analysis.sql)
 
 **Visualisation:**
-- [Cohort Analysis]<img width="1728" height="1101" alt="Image" src="https://github.com/user-attachments/assets/0bf8c841-123b-41d6-a3ae-a77ee20a8421" />
+- [Cohort Analysis]<img width="1980" height="1180" alt="Image" src="https://github.com/user-attachments/assets/d9c11537-7b49-4875-b783-41782e8f7a2b" />
 
 **Key Findings:**
 - Revenue per customer shows a decreasing trend over time.
