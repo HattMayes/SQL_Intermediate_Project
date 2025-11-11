@@ -1,7 +1,7 @@
 # SQL Project 2 - Sales Analysis 
 
 ## Overview:
-Analysis project using SQL for querying data on customer behvaiour, retention and lifetime value for an e-commerce company. Data is analysed and presented in a way that can help to improve customer retention rates and maximise revenue. This project improves on my SQL knowledge by using new querying techniques like creating Views, using conditional handles to remove NULL values, and proper string formatting alongside optimising my queries to make them run more efficiently. 
+Analysis project using SQL for querying data on customer behvaiour, retention and lifetime value for an e-commerce company. Data is analysed and presented in a way that can help to improve customer retention rates and maximise revenue. This project improves on my SQL knowledge by using new querying techniques like creating Views, using conditional handles to remove NULL values, and proper string formatting alongside, optimising my queries to make them run more efficiently. 
 
 This project was completed using Luke Barousse's data on over 40,000 customers and a YouTube tutorial that can be found at this link: https://www.youtube.com/watch?v=QKIGsShyEsQ&t=6500s.
 
@@ -32,7 +32,7 @@ This project was completed using Luke Barousse's data on over 40,000 customers a
 **Business Insights & Strategic Recommendations:**
 - Low-value (2% revenue): Design campaigns that strive for re-engagement and offer promotions on price like BOGOF or free shipping to increase purchase quantity and frequency.
 - Mid-value (32% revenue): Create upgrade paths that focus on items that are usually bought by the customer, but offer the same and similar complementary items that have a higher purchase price in order to raise revenue of this customer segment from Mid to High. 
-- High-value (66% revenue): Offer rewards for being valued customers, like a premium membership program that helps retain all High-value customers' interest. Losing just one of these customers could signifcantly impact revenue, so the highest priority is keeping them active. 
+- High-value (66% revenue): Offer rewards for being valued customers, like a premium membership program that helps retain all High-value customers' interest. Losing just one of these customers could significantly impact revenue, so the highest priority is keeping them active. 
 
 ### 2. Cohort Analysis
 - Customers were grouped by the year of their first purchase.
@@ -63,7 +63,7 @@ This project was completed using Luke Barousse's data on over 40,000 customers a
 **Visualisation:** Put Image here [Retention Analysis]()
 
 **Key Findings:**
-- Cohort churn stabilises at ~90% after 2-3 years, this indicates a predictable long-term retention pattern that can be followed to create necessary campagins to target Active and Churned customers.
+- Cohort churn stabilises at ~90% after 2-3 years, this indicates a predictable long-term retention pattern that can be followed to create necessary campaigns to target Active and Churned customers.
 - Retention rates return as consistently low, ~8-10% or anywhere from 3,000 to 8,000+ people across all cohorts, which suggests retention issues are systematic and not specific to particular cohort years.
 - Newer cohorts, in the years of 2022 and 2023 show similar churn rates, signaling that without intervention, future cohorts will follow the same pattern. 
 
